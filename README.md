@@ -193,5 +193,14 @@ This section demonstrates how I would present this project to a remote company o
 
 ---
 
+
+## 🤝 How to Collaborate
+1. Fork the repo
+2. Create a new branch for your feature
+3. Commit changes with clear messages
+4. Push your branch and open a Pull Request
+5. Discuss and merge after review
+---
+
 ## 📌 Author
 **Eze** — Data Analyst | BI Developer | SQL + Python + Power BI
