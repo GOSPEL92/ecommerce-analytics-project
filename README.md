@@ -202,5 +202,10 @@ This section demonstrates how I would present this project to a remote company o
 5. Discuss and merge after review
 ---
 
+## Dashboard Feature
+This branch adds a dashboard for monthly sales analytics using Power BI.
+
+---
+
 ## 📌 Author
 **Eze** — Data Analyst | BI Developer | SQL + Python + Power BI
